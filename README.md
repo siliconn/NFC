@@ -1,6 +1,6 @@
 # NFC
 
-* 低功耗自动寻卡[SI522A](http://www.csm-ic.com/html/ProductView.asp?ID=243&SortID=197) , [￥2.52](https://item.szlcsc.com/1060459.html)
+* NFC Reader:低功耗自动寻卡[SI522A](http://www.csm-ic.com/html/ProductView.asp?ID=243&SortID=197) , [￥2.52](https://item.szlcsc.com/1060459.html)
 
 
 ## SI522A
